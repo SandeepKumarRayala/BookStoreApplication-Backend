@@ -11,7 +11,8 @@ please open this link we have uploaded the video in the Youtube one of my teamma
  
  some more functionalities are added later like mokito test wishlist which are not there in youtube video ..
  
- # base repository created by niranjan and we forked the repository from his repository 
+ # base repository created by niranjan and we forked the repository from his repository  so please check branches Ex: Sandeep
+ 
  #our contribution will appear in the respective branches please check branches example :Sandeep
  
 
