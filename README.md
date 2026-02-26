@@ -1,19 +1,16 @@
 # BookStoreApplication-Backend
+The application was developed collaboratively by a team of six members. Kindly review the code in the respective branches: Sandeep / Vikash / Niranjan / Brijesh / Nayan / Anand.
 
+The application includes multiple services such as Cart, Order, and others.
 
-this application was developed by 6 members as a team so kindly go to branch Sandeep/vikash/niranjan/brijesh/nayan/anandh and check the code ..
-#cart #order like many services are there in application
+Please refer to the below YouTube link for a demo of the application, which has been uploaded by one of our teammates:
+https://www.youtube.com/watch?v=7lPPTWigw_4&t=366s
 
-please open this link we have uploaded the video in the Youtube one of my teammate added in Youtube
+Additional functionalities such as Mockito test cases and the Wishlist feature were implemented later and are not included in the YouTube demo.
 
-/****************** here is the link ****************/
-    https://www.youtube.com/watch?v=7lPPTWigw_4&t=366s   
- 
- some more functionalities are added later like mokito test wishlist which are not there in youtube video ..
- 
- # base repository created by niranjan and we forked the repository from his repository  so please check branches Ex: Sandeep
- 
- #our contribution will appear in the respective branches please check branches example :Sandeep
- 
+The base repository was initially created by Niranjan, and the rest of the team forked it from his repository.
+Each team member’s contributions are available in their respective branches (for example: Sandeep).
+
+Kindly review the corresponding branches to check individual contributions.
 
  
